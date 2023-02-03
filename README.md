@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**We1Y1Chen/We1Y1Chen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <div align="center"><h1> Hi, i am <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="32px"/> Weiyi Chen </h1> </div>
 
 # About Me
