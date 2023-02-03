@@ -5,7 +5,7 @@
 <div align="center"><h1> Hi, i am <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="32px"/> WEIYI CHEN </h1> </div>
 
 
-# ☀ About Me
+## ☀ About Me
 
 - 💻 I‘m currently working on web development & system design 
 - 🐱 I’m looking to collaborate on auto control system design 
@@ -15,7 +15,7 @@
 - ⚡ My cat sits like a human being. I'm trying to get used to it
 
 
-# 📕 Tech Stack
+## 📕 Tech Stack
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Go/Golang](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -41,9 +41,16 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 
-# 🔥 My Stats :
-![](https://github-readme-stats.vercel.app/api?username=We1Y1Chen&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=We1Y1Chen&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=We1Y1Chen&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
----
+## 🔥 My Stats :
+![](https://github-readme-stats.vercel.app/api?username=We1Y1Chen&hide_border=false&include_all_commits=false&count_private=false&theme=dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=We1Y1Chen&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=We1Y1Chen&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![](https://visitcount.itsvg.in/api?id=We1Y1Chen&label=Profile%20Views&color=12&icon=6&pretty=false)](https://visitcount.itsvg.in)
+
+---
+
+## ✍️Blog Posts :
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
