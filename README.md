@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div align="center"><h1> Hi, i am <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="32px"/> Weiyi Chen </h1> </div>
 
 # About Me
@@ -36,9 +34,9 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 # GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=We1Y1C&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=We1Y1C&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=We1Y1C&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=We1Y1Chen&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=We1Y1Chen&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=We1Y1Chen&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
-[![](https://visitcount.itsvg.in/api?id=We1Y1C&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=We1Y1Chen&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- made using https://prm.pushkaryadav.in -->
