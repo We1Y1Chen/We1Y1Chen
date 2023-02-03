@@ -1,4 +1,4 @@
-<div align="center"><h1> Hi, i am <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="32px"/> Weiyi Chen </h1> </div>
+<div align="center"><h1> Hi, i am <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="32px"/> WEIYI CHEN </h1> </div>
 
 # About Me
 ##💻 I‘m currently working on web development & system design 
@@ -6,7 +6,7 @@
 ##🤝 I‘m looking for help with iOS app development 
 ##🌱 I’m currently learning app development & data structure 
 ##💬 Ask me about data analysis, career vision 
-## ⚡ My cat sits like a human being. I'm trying to get used to it
+##⚡ My cat sits like a human being. I'm trying to get used to it
 
 
 # Tech Stack
@@ -38,5 +38,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=We1Y1Chen&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=We1Y1Chen&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
-[![](https://visitcount.itsvg.in/api?id=We1Y1Chen&icon=0&color=0)](https://visitcount.itsvg.in)
-<!-- made using https://prm.pushkaryadav.in -->
+[![](https://visitcount.itsvg.in/api?id=We1Y1Chen&label=Profile%20Views&color=12&icon=6&pretty=false)](https://visitcount.itsvg.in)
