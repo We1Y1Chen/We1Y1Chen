@@ -47,10 +47,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=We1Y1Chen&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![](https://visitcount.itsvg.in/api?id=We1Y1Chen&label=Profile%20Views&color=12&icon=6&pretty=false)](https://visitcount.itsvg.in)
 
----
-
-## ✍️Blog Posts :
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
