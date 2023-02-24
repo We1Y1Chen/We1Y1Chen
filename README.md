@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/3oEjHOWlyBm3IE1p7O/giphy.gif" width="500"/>
 </div>
 
-<div align="center"><h1> Hi, i am <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="32px"/> WEIYI CHEN </h1> </div>
+<div align="center"><h1> Hi, I am <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="32px"/> WEIYI CHEN </h1> </div>
 
 
 ## ☀ About Me
