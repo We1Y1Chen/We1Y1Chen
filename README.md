@@ -44,6 +44,6 @@
 ## 🔥 My Stats :
 ![](https://github-readme-stats.vercel.app/api?username=We1Y1Chen&hide_border=false&include_all_commits=false&count_private=false&theme=dark)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=We1Y1Chen&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=We1Y1Chen&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=We1Y1Chen&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![](https://visitcount.itsvg.in/api?id=We1Y1Chen&label=Profile%20Views&color=12&icon=6&pretty=false)](https://visitcount.itsvg.in)
 
