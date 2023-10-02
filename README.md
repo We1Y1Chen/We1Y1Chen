@@ -1,19 +1,10 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/3oEjHOWlyBm3IE1p7O/giphy.gif" width="500"/>
-</div>
-
-<div align="center"><h1> Hi, I am <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="32px"/> WEIYI CHEN </h1> </div>
-
-
 ## ☀ About Me
 
 - 💻 I‘m currently working on web development & system design 
 - 🐱 I’m looking to collaborate on auto control system design 
 - 🤝 I‘m looking for help with iOS app development 
 - 🌱 I’m currently learning app development & data structure 
-- 💬 Ask me about data analysis, career vision 
-- ⚡ My cat sits like a human being. I'm trying to get used to it
-
+- 💬 Ask me about data analysis, career vision
 
 ## 📕 Tech Stack
 
